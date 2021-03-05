@@ -1,5 +1,7 @@
 # Leaflet-challenge
+Please refer to https://databerenicenz.github.io/Leaflet-challenge/ for the deployed project.
 
+Steps
 Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
 
 
